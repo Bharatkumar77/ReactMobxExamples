@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReactMobxExamples/static/css/main.e6c13ad2.css",
+    "main.js": "/ReactMobxExamples/static/js/main.62b19a76.js",
+    "static/js/453.18fbe141.chunk.js": "/ReactMobxExamples/static/js/453.18fbe141.chunk.js",
+    "index.html": "/ReactMobxExamples/index.html",
+    "main.e6c13ad2.css.map": "/ReactMobxExamples/static/css/main.e6c13ad2.css.map",
+    "main.62b19a76.js.map": "/ReactMobxExamples/static/js/main.62b19a76.js.map",
+    "453.18fbe141.chunk.js.map": "/ReactMobxExamples/static/js/453.18fbe141.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.62b19a76.js"
+  ]
+}
